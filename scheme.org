@@ -1,0 +1,50 @@
+#+TITLE: (SCHEME)
+
+* Oque é
+  Dialeto minimalista da linguagem LISP, criado na década de 70 no MIT
+* Sintaxe Básica
+** Operadores ficam a esquerda da operação
+    (+ 2 2) significa 2 + 2.
+** Váriaveis
+    Váriaveis são definidas pela palavra chave ~define~: (define a 10) (Lê-se "defina a variável a com o valor 10")
+** Funções
+    Funções nada mais são que variáveis especiais, que executam um certo código. sua síntaxe é:
+	(define (nome-da-funcao argumentos)(código a ser executado))
+** Comentários
+    Comentários são usados com o simbolo de ;
+** Condições
+*** cond
+    A sintaxe básica de uma condição ~cond~  é:
+	(cond ((p1) (e1))
+	      ((p2) (e2)))
+	Sendo 'p' o que chamamos de "predicado", ou seja, a expressão a ser interpretada, que retornará um valor falso ou verdadeiro
+	e 'e' a expressão a ser realizada caso 'p' for verdadeiro
+
+	Exemplo:
+	Código para encontrar o valor absoluto de x
+	#+BEGIN_SRC scheme
+			(define (abs x)
+			  (cond ((< x 0)(- x))
+					(else x))))
+	#+END_SRC
+*** if
+    A sintaxe do ~if~ é bem parecida com a do ~cond~, porém, ele é apenas usado quando temos apenas dois casos de condição:
+	#+BEGIN_SRC scheme
+	  ;(if (predicado) (consequencia) (alternativa))
+	  ; Podemos reescrever o código anterior como:
+	  (define (abs x)
+		(if (< x 0)
+			(- x)
+			x)))
+	#+END_SRC
+
+*** and, or e not
+**** (and (e1) ... (en))
+       A expressão and, avalia cada uma das expressões (e1 ... en), da esquerda para a direita, e se uma ou mais expressões forem falsas, a expressão and retornará false.
+
+**** (or ((e1) .. (en)))
+       Cada uma expressão é avaliada, e se uma delas der um valor positivo, este valor será o valor de retorno da expressão ~or~, e o resto das expressões não serão avaliados.
+	   Caso contrário, ou seja, todas as expressões derem um valor falso, então o valor da expressão será falso.
+	   
+**** (not (e))
+       O valor da expressão ~not~ será verdadeiro se o valor avaliado for falso, e vice-versa.
