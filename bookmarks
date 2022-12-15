@@ -3,12 +3,12 @@
 ;;; nevertheless, you probably don't want to edit it.
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
 (("doutorjp.github.io"
- (filename . "~/Programming/doutorjp.github.io/")
+ (filename . "~/prog/doutorjp.github.io/")
  (front-context-string . ".git\n  -rw-r--r-")
  (rear-context-string . "66 Jul  3 10:57 ")
  (position . 243))
 ("Programming"
- (filename . "~/Programming/")
+ (filename . "~/prog/")
  (front-context-string . "DoutorJP.github.")
  (rear-context-string . "02 Jun 18 13:37 ")
  (position . 322))

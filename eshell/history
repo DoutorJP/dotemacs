@@ -1,128 +1,128 @@
-./a.out
-./a.out
-./a.out
-./a.out
-./a.out
-gcc dptr.c
-./a.out
-gcc dptr.c
-./a.out
-./a.out
-./a.out
-./a.out
-./a.out
-gcc dptr.c
-gcc dptr.c
-Welcome to the Emacs shell
-gcc dptr.c
-./a.out
-gcc dptr.c
-./a.out
-gcc dptr.c -Wall
-./a.out
-gcc dptr.c -Wall
-gcc dptr.c 
-./a.out
-gcc dptr.c 
-gcc dptr.c 
-./a.out
-./a.out
-gcc dptr.c 
-./a.out
-gcc dptr.c 
-./a.out
-gcc dptr.c 
-./a.out
-./a.out
-gcc dptr.c 
-./a.out
-gcc dptr.c 
-./a.out
-gcc dptr.c 
-./a.out
-gcc dptr.c 
-./a.out
-gcc dptr.c 
-./a.out
-gcc dptr.c 
-./a.out
-gcc dptr.c 
-./a.out
-gcc dptr.c 
-gcc dptr.c 
-./a.out
-gcc dptr.c 
-./a.out
-./a.out
-cl
-clear
-gcc encrypt.c
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+./parse 
+123 + 32
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+./parse 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+cd
+scm
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+123 + 312
+./parse 
+123 + 312
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+./parse 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+g++ -Wall -pedantic -o parse parse.cpp 
+./parse 
+make lambda
+make lambda
+make lambda
+g++ lambda.cpp 
+g++ lambda.cpp 
+g++ lambda.cpp 
 ./a.out 
-gcc encrypt.c
+g++ lambda.cpp 
 ./a.out 
-gcc encrypt.c
+make capitalize_file.cpp 
+g++ capitalize_file.cpp 
 ./a.out 
-./a.out teste
-./a.out 
-gcc encrypt.c
-./a.out 
-gcc encrypt.c
-./a.out 
-gcc encrypt.c
-./a.out 
-gcc encrypt.c
-./a.out 
-gcc encrypt.c
-gcc encrypt.c
-gcc encrypt.c
-./a.out 
-./a.out teste
-gcc palindromo.c 
-./a.out teste 
-./a.out tes
-./a.out tes
-./a.out tes
-./a.out
-./a.out 
-gcc palindromo.c 
-./a.out 
-./a.out t
-gcc palindromo.c 
-./a.out t
-gcc palindromo.c 
-gcc palindromo.c 
-gcc palindromo.c 
-gcc palindromo.c 
-./a.out t
-clearsegmentation fault
-clear
-gcc palindromo.c 
-gcc palindrome.c 
-./a.out 
-./a.out teste
+./a.out filename
+g++ capitalize_file.cpp 
+./a.out filename
 ls
-clear 
-gcc palindrome.c 
-./a.out teste
-./a.out 
-./a.out teste
-./a.out teste teste
-gcc palindrome.c 
-./a.out teste teste
-./a.out
-make main 
-make main 
-make main 
-./main
-make
-make main
-./main
-make main
-gcc main.cpp -o main
-g++ main.cpp -o main
-./main
-git add .
-git commit -m "updated posts and css"
-git push -U origin main
-git push -U origin main
-git push -u origin main
+rm -fr new_filename 
+g++ capitalize_file.cpp 
+./a.out learning.cpp 
+ls 
+clear
+g++ capitalize_file.cpp 
+./a.out learning.cpp 
+echo "Eu sou muito legal" > arquivo
+./a.out arquivo 
+echo "Eu sou muito legal" > arquivo
+g++ capitalize_file.cpp 
+./a.out arquivo 
+ls | grep ar
+clear
+g++ capitalize_file.cpp 
+./a.out arquivo 
+g++ capitalize_file.cpp 
+./a.out arquivo 
+cat new_arquivo 
