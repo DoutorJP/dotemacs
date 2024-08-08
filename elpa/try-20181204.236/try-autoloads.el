@@ -1,4 +1,4 @@
-;;; try-autoloads.el --- automatically extracted autoloads
+;;; try-autoloads.el --- automatically extracted autoloads  -*- lexical-binding: t -*-
 ;;
 ;;; Code:
 
@@ -21,7 +21,7 @@ to a raw .el file. Packages are stored in `try-tmp-dir' and raw
 
 \(fn &optional URL-OR-PACKAGE)" t nil)
 
-(if (fboundp 'register-definition-prefixes) (register-definition-prefixes "try" '("try-")))
+(register-definition-prefixes "try" '("try-"))
 
 ;;;***
 

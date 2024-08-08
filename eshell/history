@@ -1,128 +1,128 @@
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-./parse 
-123 + 32
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-./parse 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-cd
-scm
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-123 + 312
-./parse 
-123 + 312
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-./parse 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-g++ -Wall -pedantic -o parse parse.cpp 
-./parse 
-make lambda
-make lambda
-make lambda
-g++ lambda.cpp 
-g++ lambda.cpp 
-g++ lambda.cpp 
-./a.out 
-g++ lambda.cpp 
-./a.out 
-make capitalize_file.cpp 
-g++ capitalize_file.cpp 
-./a.out 
-./a.out filename
-g++ capitalize_file.cpp 
-./a.out filename
+clear; cargo run
+.
+cargo build
+cargo build
+cargo build
+cargo build
+clear
+cargo build
+clear
+cargo build
+clear
+cargo build
+cargo run
+cargo run
+cargo build
+cargo build
+cargo run
+cargo build
+cargo run
+cargo build
+cargo run
+cargo run
+cargo run
+clear
+cd ../bin
+cargo build
+cargo build
+clear
+cargo build
+cargo build
+clear
+cargo build
+clear
+cargo build
+cargo build
+cargo build
+cargo run
+cargo build
+cargo run
+cargo build
+cargo run
+cargo build
+cargo run
+cargo build
+cargo build
+cargo run
+cargo build
+cargo build
+cd ..
+cargo build
 ls
-rm -fr new_filename 
-g++ capitalize_file.cpp 
-./a.out learning.cpp 
-ls 
+ls target/
 clear
-g++ capitalize_file.cpp 
-./a.out learning.cpp 
-echo "Eu sou muito legal" > arquivo
-./a.out arquivo 
-echo "Eu sou muito legal" > arquivo
-g++ capitalize_file.cpp 
-./a.out arquivo 
-ls | grep ar
+cargo build *
 clear
-g++ capitalize_file.cpp 
-./a.out arquivo 
-g++ capitalize_file.cpp 
-./a.out arquivo 
-cat new_arquivo 
+rm -fr input-tests/
+cargo new input-tests
+cd ..
+cargo build
+cargo build
+cargo build
+cargo build
+cargo run
+Ok
+cargo build
+cargo run
+cargo run
+cargo build
+clear
+cargo build
+cargo run
+cd ..
+cargo build
+cargo build
+cargo build
+cargo run
+cargo build
+cargo build
+cargo run
+cargo build
+cargo run
+bc
+cargo build
+cargo run
+cargo run
+cargo build
+cargo run
+cd ..
+cargo new wordsrs
+cd wordsrs/
+cargo build
+cargo build
+cargo build
+eix fantasque
+emerge -av fantasque-sans-mono
+doas emerge -av fantasque-sans-mono
+git clone https://github.com/doutorjp/doutorjp.github.io.git
+cargo new search
+python func.py
+python func.py
+python func.py
+python func.py
+python func.py
+python func.py
+python func.py
+python func.py
+python func.py
+python func.py
+python func.py
+g++ multmx.cpp 
+./a.out 
+cargo build
+cd ..
+cargo build
+bash
+clear
+cargo build
+cargo build
+cargo build
+cl
+clear
+cargo build
+ls
+ls src
+ls target/
+ls target/debug/
+cargo build
+zsh

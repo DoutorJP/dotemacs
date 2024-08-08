@@ -1,2 +1,0 @@
-;;; Generated package description from timu-spacegrey-theme.el  -*- no-byte-compile: t -*-
-(define-package "timu-spacegrey-theme" "20211217.1942" "Color theme inspired by the Spacegray theme in Sublime Text" '((emacs "25.1")) :commit "81786aaef72eabac5b7dd483cd2f8b77ffffcc92" :authors '(("Aimé Bertrand" . "aime.bertrand@macowners.club")) :maintainer '("Aimé Bertrand" . "aime.bertrand@macowners.club") :keywords '("faces" "themes") :url "https://gitlab.com/aimebertrand/timu-spacegrey-theme")
